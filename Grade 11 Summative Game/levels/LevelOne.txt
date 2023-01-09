@@ -1,0 +1,9 @@
+7
+88
+                M           M                     M    M                       M  M                                                                   
+                            CCC                                                                                                                          
+                            B3                                     B4                                                                                 
+                 CCC H   B2                                   B2                                                                           
+            CC        B3             H                    B5                  B4                                                   
+      CCCC  B5                       B4          B5                                                                                       
+CCCCC B6         B3  SSSSS   S CCC       B3 CCCC      B2       SSSSS      B3           E

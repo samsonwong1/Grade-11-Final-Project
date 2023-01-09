@@ -1,0 +1,9 @@
+7
+95
+        M       M               M                  M           M             M          M                                     
+                                                                               CCC                                                              
+               H B2                                CC  B2           S          B5                                                           
+               B2      B2    B2              CCCC  B2    B1         B4                                                                                                              
+             B2     B2     B2   B1      CC   B6            B4                H                                                                        
+         B2                       B2   B5                     B3             B2                                                                  
+CCCC B3  S B1  S S S   S S S S S    B1CCC  S S S   S S S   S     B3       B2       S         E       
